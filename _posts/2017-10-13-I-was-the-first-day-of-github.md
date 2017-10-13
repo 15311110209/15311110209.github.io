@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我在github的第一天
-categories: I was the first day of github
+categories: Blog
 description: 代码可以创造无数的绮丽与神奇，而阅读能够升华我们的心灵和纯心。
 keywords: github、first
 ---
