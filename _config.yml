@@ -4,7 +4,7 @@
 baseurl:
 url: https://15311110209.github.io/
 date_format: "ordinal"
-title: Hacker&UP
+title: Hacker&Creator
 subtitle: "<where(code)>"
 description: "李超的个人博客"
 keywords: Hacker&UP, Li Chao, lichao, Borke
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Chao Li
+author: Borke
 organization: ccniit.com
 organization_url: http://ccniit.com
 github_username: 15311110209
