@@ -1,14 +1,27 @@
 - name: Software Engineer Keywords
   keywords:
       - Java
-      - SQL
-      - JavaScript
+      - MySQL
       - Ajax
       - Hibernate
-      - Spring
+      - Spring/SpringMVC
+      - MyBaties
+      - Websocket/Session
+      - Encryption Algorithm
+      - Data Structure
       - Network Engineering
       - Software Test
+      - Html/CSS/JavaScript
+      - Hui-ui/Amaze-ui/layui/Bootstrap/Win10-ui
+      
+- name: Language class
+      - 12.16 预备参考CET4
 
 - name: Mobile Developer Keywords
   keywords:
       - Android
+
+- name: Item
+  keywords:
+      - 1.Art assessment system for primary and secondary school students in Sichuan.
+      - 2.Sichuan youth campus football information network.
