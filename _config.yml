@@ -79,5 +79,14 @@ collections:
         permalink: /wiki/:path/
 
 repository: 15311110209/15311110209.github.io
+# ---------------- #
+#      Comments    #
+# ---------------- #
+gitment:
+    owner: 15311110209
+    repo: blog-comments
+    oauth:
+        client_id: faf1a40cef4770f0b813
+        client_secret: eabbb72af7d9855ca9cd28e90cc6b8c90640f94b
 
 
