@@ -1,28 +1,37 @@
-- name: Software Engineer Keywords
+- name: Peration and maintenance
   keywords:
-      - Java
-      - MySQL
-      - Ajax
-      - Hibernate
-      - Spring/SpringMVC
-      - MyBaties
-      - Websocket/Session
-      - Encryption Algorithm
-      - Data Structure
-      - Network Engineering
-      - Software Test
-      - Html/CSS/JavaScript
-      - Hui-ui/Amaze-ui/layui/Bootstrap/Win10-ui
+      - Spring Boot热部署
 
-- name: Language class
-  keywords:
-      - 12.16 预备参考CET4
 
-- name: Mobile Developer Keywords
+- name: Development - Java
   keywords:
-      - Android
+      - Spring MVC
+  
+- name: Development - Display
+  keywords:
+      - HTML5/CSS
+      - JavaScript
+      - JQuery
+      - Node.js
+      - AngularJS
+      - Bootstrap
 
-- name: Item
+- name: Test
   keywords:
-      - 1.Art assessment system for primary and secondary school students in Sichuan.
-      - 2.Sichuan youth campus football information network.
+      - Unit test
+      - Integration Testing
+      - System Testing
+      - Acceptance test
+
+- name: Security
+  keywords:
+      - Spring Security
+      - Apache Shiro
+     
+- name: Plugins
+  keywords:
+      - Mysql
+      - MyBatis
+      - MongoDB
+      - Spring Spa
+      - Redis

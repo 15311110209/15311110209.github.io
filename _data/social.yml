@@ -2,10 +2,26 @@
   name: lichao
   url: https://github.com/15311110209
 
-- sitename: 博客
-  name: Borke
-  url: http://cvts.club
-
-- sitename: 微博
+- sitename: 新浪微博
   name: Funs-cvts
   url: http://weibo.com/lcBorke
+  
+- sitename: Twitter
+  name: Borke
+  url: https://twitter.com/AgentsBorke
+  
+- sitename: music.163
+  name: CVTS
+  url: http://music.163.com/#/user/home?id=277087988
+  
+- sitename: facebook
+  name: Borke
+  url: https://www.facebook.com/Borke-302443063608735
+  
+- sitename: Gmail
+  name: Chao Li
+  url: mailto:icnchao@gmail.com
+  
+- sitename: 163.com
+  name: data_item
+  url: mailto:data_item@163.com
